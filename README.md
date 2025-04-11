@@ -68,8 +68,6 @@
 
 ---
 
-### 📞 Contato
-
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/heitordallavilla/" target="_blank">
