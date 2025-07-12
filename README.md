@@ -1,80 +1,257 @@
-<h1 align="center">Olá! 👋 Eu sou o Heitor Dalla Villa</h1>
+# Hey! I'm Heitor Dalla Villa 👋
 
-<p align="center">
-  🚀 Futuro Dev Full Stack | Estudante de ADS | Apaixonado por tecnologia
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Scientist;AI+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HeitorDalla&style=flat-square&color=blue" alt="profile views" />
-  <img src="https://img.shields.io/badge/status-Always Learning-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/focus-FrontEnd%20%2F%20FullStack-success?style=flat-square" />
-</p>
+<br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HeitorDalla&show_icons=true&theme=gotham&count_private=true" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeitorDalla&layout=compact&theme=gotham" height="160" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=HeitorDalla&theme=gotham&radius=16&area=true" /> </p>
-
----
-
-### ✨ Sobre mim
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (Unicesumar)
-- 📌 Localização: Brasil 🇧🇷
-- 🔭 Foco atual: JavaScript moderno e banco de dados
-- 🧠 Curioso, disciplinado e focado em Clean Code e boas práticas
-- 🗣️ Gosto de compartilhar conhecimento e aprender com a comunidade
-- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/heitordallavilla/)
-
-> _“A melhor forma de prever o futuro é criá-lo.” – Alan Kay_
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HeitorDalla&style=flat-square&color=6366F1" alt="Profile views" />
+  <img src="https://img.shields.io/badge/From-Londrina,+PR+🇧🇷-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full+Stack+%26+Data+Science-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Available-For+Hire-EF4444?style=flat-square" />
+</div>
 
 ---
 
----
+## 🚀 About Me
 
-### 🛠️ Habilidades
+**Full Stack Developer & Data Scientist** passionate about creating meaningful solutions through code and data. Currently studying **Systems Analysis and Development** at **Unicesumar**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+I specialize in building **scalable web applications** and extracting **actionable insights** from complex datasets. My mission is to bridge the gap between **technology** and **business value**.
 
----
-
-### 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [Validação de Formulário](https://heitordalla.github.io/form-validation/) | Validações no formulário com javascript | HTML, CSS e Javascript |
-| [Site restaurante japonês](https://heitordalla.github.io/project-restaurant/) | Site de um resturante japonês com funcionalidades javascript | HTML, CSS e Javascript |
-
----
-
-### 📚 Certificações & Cursos
-
-- 💻 Lógica de Programação, MySQL, HTML, CSS, Javascript e Python - Curso em Vídeo
-- ⚙️ Lógica de Programação - DIO
-- 🧱 Imersão Front-end - Alura
-- 📘 Banco de Dados MySQL, Desenvolimento Web Completo, Curso de Javascript do Básico ao avançado - Udemy
+```typescript
+const heitor = {
+  name: "Heitor Dalla Villa",
+  location: "Londrina, Paraná, Brazil 🇧🇷",
+  education: "Systems Analysis & Development @ Unicesumar",
+  currentRole: "Full Stack Developer & Data Analyst",
+  
+  expertise: {
+    frontend: ["Next.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Express", "Python", "RESTful APIs"],
+    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Data Visualization"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    tools: ["Git", "GitHub", "Docker", "VS Code", "Jupyter"]
+  },
+  
+  interests: ["Web Development", "Data Science", "Machine Learning", "AI"],
+  currentFocus: ["Machine Learning", "Cloud Computing"],
+  motto: "Code with purpose, analyze with precision"
+};
+```
 
 ---
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> </p>
+## 🟨 Tech Stack
+
+<div align="center">
+
+### **Frontend Development**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" />
+
+### **Backend Development**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+
+### **Data Science & Python Libraries**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="50" />
+
+### **Machine Learning & AI**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" />
+
+### **Databases**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+
+### **Tools & DevOps**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+
+</div>
 
 ---
 
+## 📈 Activity & Contributions
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeitorDalla&theme=tokyonight" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeitorDalla&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeitorDalla&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeitorDalla&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HeitorDalla&theme=tokyonight" />
+</div>
+
 ---
 
-<p align="center">
-  <!-- LinkedIn -->
+## 🎯 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Web Development</h3>
+      <a href="https://heitordalla.github.io/form-validation/">
+        <img src="https://img.shields.io/badge/🔍_Form_Validation-Live_Demo-6366F1?style=for-the-badge&logo=javascript&logoColor=white" />
+      </a>
+      <br/>
+      <sub>Intelligent real-time form validation system</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <a href="https://heitordalla.github.io/project-restaurant/">
+        <img src="https://img.shields.io/badge/🍱_Restaurant_Website-Live_Demo-10B981?style=for-the-badge&logo=javascript&logoColor=white" />
+      </a>
+      <br/>
+      <sub>Responsive restaurant website with interactive features</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+    </td>
+    <td align="center" width="50%">
+      <h3>📊 Data Science & ML</h3>
+      <img src="https://img.shields.io/badge/📈_Sales_Analytics-In_Development-F59E0B?style=for-the-badge&logo=python&logoColor=white" />
+      <br/>
+      <sub>Interactive dashboard with sales insights</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🤖_ML_Prediction-Coming_Soon-EF4444?style=for-the-badge&logo=python&logoColor=white" />
+      <br/>
+      <sub>Machine learning model for market trend prediction</sub>
+      <br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>🎓 Academic</h3>
+        <img src="https://img.shields.io/badge/Unicesumar-Análise_e_Desenvolvimento_de_Sistemas-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+        <br/>
+        <sub>Currently studying • Expected graduation: 2026</sub>
+        <br/><br/>
+        <strong>Key Subjects:</strong>
+        <br/>
+        • Software Engineering<br/>
+        • Database Systems<br/>
+        • Data Structures & Algorithms<br/>
+        • Web Development<br/>
+        • Systems Analysis<br/>
+      </td>
+      <td align="center" width="50%">
+        <h3>🏆 Certifications</h3>
+        <img src="https://img.shields.io/badge/JavaScript-Fundamentals-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <br/>
+        <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🌱 Currently Learning & Roadmap
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🔥 Current Focus</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" title="TypeScript" />
+      </td>
+      <td align="center" width="33%">
+        <h3>🎯 Next Goals</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker / DevOps" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow / Deep Learning" />
+      </td>
+      <td align="center" width="33%">
+        <h3>🚀 Future Plans</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Cybersecurity (via Linux/SysAdmin)" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Open+for+collaborations;Available+for+freelance+projects;Let's+build+something+amazing!" alt="Collaboration" />
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/heitordallavilla/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Visitar%20Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" title="LinkedIn" />
   </a>
-  <!-- WhatsApp -->
+  &nbsp;&nbsp;
   <a href="https://wa.me/5543998229653" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Conversar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="50" height="50" style="border-radius:10px; background:white;" title="WhatsApp" />
   </a>
-</p>
+  &nbsp;&nbsp;
+  <a href="mailto:heitor.dallavilla@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" style="border-radius:10px;" title="Gmail" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=heitordallavilla&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+</div>
+
+---
+
+<div align="center">
+  <h3>💭 "Great things in business are never done by one person. They're done by a team of people." - Steve Jobs</h3>
+  <br/>
+  <img src="https://img.shields.io/badge/Ready_to_collaborate%3F-Let's_chat!-6366F1?style=for-the-badge" />
+</div>
