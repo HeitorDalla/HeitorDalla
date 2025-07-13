@@ -120,42 +120,42 @@ const heitor = {
     <td align="center" width="50%">
       <h3>🌐 Web Development</h3>
       <a href="https://heitordalla.github.io/form-validation/">
-        <img src="https://img.shields.io/badge/🔍_Form_Validation-Live_Demo-6366F1?style=for-the-badge&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/🔍_Form_Validation-Live_Demo-6366F1?style=for-the-badge" />
       </a>
       <br/>
       <sub>Intelligent real-time form validation system</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
       <br/><br/>
       <a href="https://heitordalla.github.io/project-restaurant/">
-        <img src="https://img.shields.io/badge/🍱_Restaurant_Website-Live_Demo-10B981?style=for-the-badge&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/🍱_Restaurant_Website-Live_Demo-10B981?style=for-the-badge" />
       </a>
       <br/>
       <sub>Responsive restaurant website with interactive features</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
     </td>
     <td align="center" width="50%">
       <h3>📊 Data Science & ML</h3>
-      <img src="https://img.shields.io/badge/📈_Sales_Analytics-In_Development-F59E0B?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/📈_Sales_Analytics-In_Development-F59E0B?style=for-the-badge" />
       <br/>
       <sub>Interactive dashboard with sales insights</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/🤖_ML_Prediction-Coming_Soon-EF4444?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" title="Pandas" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🤖_ML_Prediction-Coming_Soon-EF4444?style=for-the-badge" />
       <br/>
       <sub>Machine learning model for market trend prediction</sub>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+      <br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
+      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="50" height="50" style="background:white; border-radius:10px;" title="Scikit-Learn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow" />
     </td>
   </tr>
 </table>
@@ -169,9 +169,11 @@ const heitor = {
     <tr>
       <td align="center" width="50%">
         <h3>🎓 Academic</h3>
-        <img src="https://img.shields.io/badge/Unicesumar-Análise_e_Desenvolvimento_de_Sistemas-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-        <br/>
-        <sub>Currently studying • Expected graduation: 2026</sub>
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135768.png" width="50" style="border-radius: 10px;" title="University" />
+        <br/><br/>
+        <strong>Unicesumar</strong><br/>
+        <sub>Análise e Desenvolvimento de Sistemas</sub><br/>
+        <em>Currently studying • Expected graduation: 2026</em>
         <br/><br/>
         <strong>Key Subjects:</strong>
         <br/>
@@ -179,15 +181,21 @@ const heitor = {
         • Database Systems<br/>
         • Data Structures & Algorithms<br/>
         • Web Development<br/>
-        • Systems Analysis<br/>
+        • Systems Analysis
       </td>
       <td align="center" width="50%">
         <h3>🏆 Certifications</h3>
-        <img src="https://img.shields.io/badge/JavaScript-Fundamentals-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" />
         <br/>
-        <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <sub>JavaScript Fundamentals</sub>
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" />
         <br/>
-        <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+        <sub>Python for Data Analysis</sub>
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" />
+        <br/>
+        <sub>Version Control with Git</sub>
       </td>
     </tr>
   </table>
