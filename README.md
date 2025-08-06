@@ -30,9 +30,9 @@ const heitor = {
   currentRole: "Full Stack Developer & Data Analyst",
   
   expertise: {
-    frontend: ["Next.js", "TypeScript", "Tailwind CSS"],
+    frontend: ["Next.js", "TypeScript"],
     backend: ["Node.js", "Express", "Python", "RESTful APIs"],
-    dataScience: ["Pandas", "NumPy", "Scikit-learn", "Data Visualization"],
+    dataScience: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Data Visualization"],
     databases: ["MySQL", "PostgreSQL", "MongoDB"],
     tools: ["Git", "GitHub", "Docker", "VS Code", "Jupyter"]
   },
