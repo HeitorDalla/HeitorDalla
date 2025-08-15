@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-**Full Stack Developer & Data Scientist** passionate about creating meaningful solutions through code and data. Currently studying **Systems Analysis and Development** at **Unicesumar**.
+**Full Stack Data & AI Engineer** passionate about creating meaningful solutions through code and data. Currently studying **Systems Analysis and Development** at **Unicesumar**.
 
 I specialize in building **scalable web applications** and extracting **actionable insights** from complex datasets. My mission is to bridge the gap between **technology** and **business value**.
 
@@ -27,13 +27,13 @@ const heitor = {
   name: "Heitor Dalla Villa",
   location: "Londrina, Paraná, Brazil 🇧🇷",
   education: "Systems Analysis & Development @ Unicesumar",
-  currentRole: "Full Stack Developer & Data Analyst",
+  currentRole: "Full Stack Data & AI Engineer",
   
   expertise: {
-    frontend: ["Next.js", "TypeScript"],
-    backend: ["Node.js", "Express", "Python", "RESTful APIs"],
-    dataScience: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Data Visualization"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB"],
+    frontend: ["HTML", "CSS", "Javascript", "TypeScript", "Next.js"],
+    backend: ["Node.js", "Express", "Python", "Java", "RESTful APIs"],
+    dataScience: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch", "Data Visualization"],
+    databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
     tools: ["Git", "GitHub", "Docker", "VS Code", "Jupyter"]
   },
   
