@@ -38,7 +38,12 @@ const heitor = {
   },
   
   interests: ["Web Development", "Data Science", "Machine Learning", "AI"],
-  currentFocus: ["Machine Learning", "Cloud Computing"],
+  currentFocus: [
+    "Building robust data pipelines and infrastructure (Data Engineer)",
+    "Developing Machine Learning models and deploying them to production (Data Scientist)",
+    "Analyzing and visualizing data to generate actionable business insights (Data Analyst)",
+    "Full-stack development for AI-driven applications and services"
+  ]
   motto: "Code with purpose, analyze with precision"
 };
 ```
