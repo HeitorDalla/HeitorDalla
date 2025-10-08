@@ -2,7 +2,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Data+Scientist;AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=HeitorDalla&style=flat-square&color=6366F1" alt="Profile views" />
   <img src="https://img.shields.io/badge/From-Londrina,+PR+🇧🇷-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Full+Stack+%26+Data+Science-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Full+Stack+%26-10B981?style=flat-square" />
   <img src="https://img.shields.io/badge/Available-For+Hire-EF4444?style=flat-square" />
 </div>
 
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-**Full Stack Data & AI Engineer** passionate about creating meaningful solutions through code and data. Currently studying **Systems Analysis and Development** at **Unicesumar**.
+**Full Stack & AI Enthusiast** passionate about creating meaningful solutions through code and data. Currently studying **Systems Analysis and Development** at **Unicesumar**.
 
 I specialize in building **scalable web applications** and extracting **actionable insights** from complex datasets. My mission is to bridge the gap between **technology** and **business value**.
 
@@ -27,7 +27,7 @@ const heitor = {
   name: "Heitor Dalla Villa",
   location: "Londrina, Paraná, Brazil 🇧🇷",
   education: "Systems Analysis & Development @ Unicesumar",
-  currentRole: "Full Stack Data & AI Engineer",
+  currentRole: "Software Engineer",
   
   expertise: {
     frontend: ["HTML", "CSS", "Javascript", "TypeScript", "Next.js"],
@@ -37,7 +37,7 @@ const heitor = {
     tools: ["Git", "GitHub", "Docker", "VS Code", "Jupyter"]
   },
   
-  interests: ["Web Development", "Data Science", "Machine Learning", "AI"],
+  interests: ["Web Development", "Full Stack Developer", "AI"],
   currentFocus: [
     "Building robust data pipelines and infrastructure (Data Engineer)",
     "Developing Machine Learning models and deploying them to production (Data Scientist)",
@@ -64,6 +64,7 @@ const heitor = {
 
 ### **Backend Development**
 <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
@@ -125,16 +126,18 @@ const heitor = {
     <tr>
       <td align="center" width="33%">
         <h3>🔥 Current Focus</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow / Deep Learning" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker / DevOps" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Cybersecurity (via Linux/SysAdmin)" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" />
       </td>
       <td align="center" width="33%">
         <h3>🎯 Next Goals</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker / DevOps" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
       </td>
       <td align="center" width="33%">
         <h3>🚀 Future Plans</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Cybersecurity (via Linux/SysAdmin)" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
       </td>
     </tr>
   </table>
