@@ -18,9 +18,9 @@
 
 ## 🚀 About Me
 
-**Full Stack & AI Enthusiast** passionate about creating meaningful solutions through code and data. Currently studying **Systems Analysis and Development** at **Unicesumar**.
+**Full Stack Developer** with a strong focus on **Software Architecture** and **Cloud Infrastructure**. Currently studying **Systems Analysis and Development** at **Unicesumar**.
 
-I specialize in building **scalable web applications** and extracting **actionable insights** from complex datasets. My mission is to bridge the gap between **technology** and **business value**.
+I specialize in building **scalable web applications**, orchestrating **containerized environments**, and automating workflows through **DevOps practices**. My mission is to deliver robust software solutions that bridge the gap between **complex technology** and **business value**.
 
 ```typescript
 const heitor = {
@@ -31,20 +31,19 @@ const heitor = {
   
   expertise: {
     frontend: ["HTML", "CSS", "Javascript", "TypeScript", "Next.js"],
-    backend: ["Node.js", "Express", "Python", "Java", "RESTful APIs"],
-    dataScience: ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "PyTorch", "Data Visualization"],
-    databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
-    tools: ["Git", "GitHub", "Docker", "VS Code", "Jupyter"]
+    backend: ["Node.js", "Express", "Python", "Java", "Spring Boot"],
+    infrastructure: ["Linux", "Docker", "Kubernetes", "Terraform", "Jenkins", "GCP"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB"]
   },
   
-  interests: ["Web Development", "Full Stack Developer", "AI"],
+  interests: ["Software Architecture", "DevOps", "Cloud Computing"],
   currentFocus: [
-    "Building robust data pipelines and infrastructure (Data Engineer)",
-    "Developing Machine Learning models and deploying them to production (Data Scientist)",
-    "Analyzing and visualizing data to generate actionable business insights (Data Analyst)",
-    "Full-stack development for AI-driven applications and services"
-  ]
-  motto: "Code with purpose, analyze with precision"
+    "Designing scalable microservices architectures",
+    "Automating CI/CD pipelines and infrastructure provisioning",
+    "Mastering Cloud Native technologies and container orchestration",
+    "Full-stack development with clean code principles"
+  ],
+  motto: "Code with purpose, deploy with confidence"
 };
 ```
 
@@ -68,14 +67,15 @@ const heitor = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
 
-### **Machine Learning & AI**
+### **Infrastructure & Cloud**
 <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" />
 
 ### **Databases**
 <br/>
@@ -83,11 +83,10 @@ const heitor = {
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
 
-### **Tools & DevOps**
+### **Workflow & Tools**
 <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
 
 </div>
@@ -108,32 +107,6 @@ const heitor = {
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeitorDalla&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HeitorDalla&theme=tokyonight" />
-</div>
-
----
-
-## 🌱 Currently Learning & Roadmap
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🔥 Current Focus</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" title="Docker / DevOps" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Cybersecurity (via Linux/SysAdmin)" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🎯 Next Goals</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🚀 Future Plans</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
