@@ -167,17 +167,3 @@ const heitor = {
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" height="50" style="border-radius:10px;" title="Gmail" />
   </a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=heitordallavilla&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
-</div>
-
----
-
-<div align="center">
-  <h3>💭 "Great things in business are never done by one person. They're done by a team of people." - Steve Jobs</h3>
-  <br/>
-  <img src="https://img.shields.io/badge/Ready_to_collaborate%3F-Let's_chat!-6366F1?style=for-the-badge" />
-</div>
